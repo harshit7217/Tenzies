@@ -4,7 +4,7 @@ A simple yet addictive dice game built with **React** and **Vite**. Players roll
 
 Built to explore component architecture, state management, and fast-refresh development using Vite.
 
-🌐 **Live Demo:** *Coming Soon* (optional Netlify link if deployed)
+🌐 **Live Demo:** https://tenziesgamealpha.netlify.app/
 
 ---
 
